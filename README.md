@@ -1,7 +1,3 @@
-Here's a clean, professional, and well-structured `README.md` file for your **Ecommerce Dashboard** project:
-
----
-
 # 🛒 Ecommerce Dashboard
 
 A full-stack e-commerce CRUD (Create, Read, Update, Delete) web application that allows users to sign up, log in, and manage products. Users can view available products, add new ones, update existing ones, and delete products as needed.
